@@ -1,7 +1,7 @@
 # Codeigniter Framework Note - Image Generator
 1. Resize Image
 2. Crop Image
-3. Append Watermark to image
+3. Append Watermark To image
 
 
 How to use:
